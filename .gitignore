@@ -1,1 +1,9 @@
 *.txt
+*.project
+*.breakpoints
+*.classpath
+*.replit
+pom.xml
+replit.nix
+Main.class
+findNemo.java
